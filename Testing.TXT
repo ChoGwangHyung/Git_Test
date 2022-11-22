@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi
 no Hello
+=======
+hi hello
+>>>>>>> 30aca61... hello
